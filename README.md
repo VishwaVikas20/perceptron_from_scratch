@@ -1,5 +1,5 @@
 perceptron_from_scratch
-Perceptron From Scratch  | NumPy Only | Rosenblatt 1957
+Perceptron From Scratch | NumPy Only | Rosenblatt 1957
 
 
 Printing Truth Table of AND_Gate
