@@ -1,7 +1,6 @@
 ## perceptron_from_scratch
 Perceptron From Scratch  | NumPy Only | Rosenblatt 1957
 
-#Output:
 
 Printing Truth Table of AND_Gate
 --------------------
